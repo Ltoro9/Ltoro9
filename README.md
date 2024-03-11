@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis S Toro Rosario</h1>
 <h3 align="center">Student at Holberton - Software Engineering</h3>
-<img align="center" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/im-coding-machine-animation-c85t0so5hpi45qw5.webp">
+<img align="center" alt="Coding" width="400" src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.webp?cid=ecf05e47d3msrh5sk4ww18dqjyt9h7ipetmg9oo4wbf19gh0&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 - 🌱 I’m currently learning **SQL**
 
